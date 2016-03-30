@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["Error","An error that arose during interaction with either a device, an adapter or the adapter manager"],["InternalError",""],["WatchEvent","An event during watching."]],"trait":[["API","A handle to the public API."]]});
